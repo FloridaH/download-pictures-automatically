@@ -1,0 +1,21 @@
+android-Android：如何在jni中设置一个预先创建的程序库？
+media-如何进入音乐播放列表，然后调用音乐列表程序，播放歌曲
+java-如何设置listView中背景颜色？
+android-在activity中获取OnPostExecute()
+android中chronometer不
+android-在一个Android应用程序中使用Intent显示另外一个activity
+android- Android：屏幕方向改变后动作继续执行
+ios-iPhone中按钮背景图片的问题
+android asynctask-AsyncTask 不能调用onPostExecute()方法
+fonts-使用Android中的外部字体
+android-用程序实现安装.apk，引用程序无法运行
+ios-实现UIScrollView从上到下滚动
+tabs-Android tabactivity问题
+让android的TextView可
+php-请教用PHP备份MYSQL数据的做法
+钢琴界面设计-android 实现钢琴应用这样的布局
+ios-在IBAction中如何读取UITextField的值？
+activity-如何变换Android中的Activity？
+ios-EAGLContext中EA代表什么？
+android-Android仿真器为什么不能运行
+android intent-在android中，如何从一个activity向另外一个activity传递object？
